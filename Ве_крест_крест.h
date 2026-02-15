@@ -15,51 +15,51 @@
 #include <string>
 #include <ctime>
 
-#define царь_батюшка_главный int main
-#define внедрить using
-#define обозвать typedef
+#define приказ_царя int main
+#define добавть using
+#define назвать typedef
 #define Русь std
-#define молвить cout
+#define говорить cout
 #define внемлить cin
 #define воздать return
 
-#define пахать do
-#define покуда while
+#define делать do
+#define сколько while
 #define для for
 
-#define коли if
-#define отнюдь else
+#define если if
+#define иначе else
 
 #define династия class
 #define семейство struct
 #define перепись enum
 
-#define бить_ящеров break
-#define добить_ящеров continue
+#define остановить break
+#define добить continue
 #define путевой_камень switch
 #define путь case
 #define базированно default
 
 #define правда true
-#define кривда false
+#define ложь false
 
-#define прыг_скок endl
-#define новь new
-#define казнь delete
-#define туда_не_знаю_куда nullptr
+#define следущий endl
+#define новый new
+#define удалить delete
+#define неизвестный_путь nullptr
 #define НИЧТО NULL
 #define судьба rand
 #define судьбоносный srand
-#define в_строченьку to_string
+#define в_строку to_string
 #define ширь setw
-#define приказ_княжий const
+#define приказ_князя const
 #define мощь pow
-#define получи_басурман throw
+#define генерировать_исключение throw
 #define гнев_Перуна exception
 #define читать_летопись ifstream
 #define писать_летопись ofstream
 #define летопись fstream
-#define друже friend
+#define друu friend
 #define окстись goto
 #define свет_мой_зеркальце template
 #define скажи typename
@@ -72,8 +72,8 @@
 #define пытать_ящера try
 #define поймать_ящера catch
 #define хутор namespace
-#define откупорить open
-#define закупорить close
+#define открыть open
+#define закрыть close
 #define суд_Перуна auto
 #define аки static_cast
 #define очами_стрельнуть peek
@@ -98,7 +98,7 @@
 #define меняло swap
 #define отщипнуть get
 
-внедрить целина = int;
+внедрить целое = int;
 внедрить вель_дробь = double;
 внедрить малый_дробь = float;
 внедрить буква = char;
@@ -414,3 +414,4 @@
 }
 
 #endif
+
